@@ -1,0 +1,4 @@
+A branching strategy defines how developers create, manage, and merge branches in a version control system like Git to ensure smooth collaboration and organized code development.
+Provides clear rules for writing, merging, and deploying code.
+Helps keep the repository structured and maintainable.
+Reduces merge conflicts when multiple developers work simultaneously.
