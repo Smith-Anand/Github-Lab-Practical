@@ -1,0 +1,1 @@
+Git is a version control system, allows you to collaborate with anyone, keep track of the versions of projects
